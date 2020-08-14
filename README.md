@@ -19,4 +19,5 @@ stories that can be shared with other users of the site.
 
   - Mongoose
 
-This app was made with help from tutorials from Brad Traversy
+This app was made with help from tutorials from Brad Traversy.
+Link can be found [here](https://www.youtube.com/watch?v=SBvmnHTQIPY)
